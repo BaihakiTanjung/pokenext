@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Comic Neue", cursive;
+}
+
+div#a {
+  background-image: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
